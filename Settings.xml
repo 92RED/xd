@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <Settings>
 
   <AoBOffset>18F86B8</AoBOffset>
@@ -41,10 +41,10 @@
     </Body>
 
     <NameHeight>164</NameHeight>
-    <TailType>15FE</TailType>
-    <Head>15F5</Head>
-    <Hair>15F6</Hair>
-    <Tattoos>15FC</Tattoos>
+    <TailType>1646</TailType>
+    <Head>1635</Head>
+    <Hair>1636</Hair>
+    <Tattoos>163C</Tattoos>
     <FacePaint>1601</FacePaint>
     <Nose>1601</Nose>
     <Lips>15FD</Lips>
