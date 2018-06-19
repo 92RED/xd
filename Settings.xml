@@ -44,10 +44,19 @@
     <TailType>1646</TailType>
     <Head>1635</Head>
     <Hair>1636</Hair>
+    <HairTone>163A</HairTone>
+    <Highlights>1637</Highlights>
+    <HighlightTone>163B</HighlightTone>
+    <Skintone>1638</Skintone>
+    <FacialFeatures>163C</FacialFeatures>
+    <Eye>1640</Eye>
+    <RightEye>1639</RightEye>
+    <LeftEye>163F</LeftEye>
     <Tattoos>163C</Tattoos>
-    <FacePaint>1601</FacePaint>
-    <Nose>1601</Nose>
-    <Lips>15FD</Lips>
+    <FacePaint>1648</FacePaint>
+    <FacePaintColor><1649</FacePaintColor>
+    <Nose>1641</Nose>
+    <Lips>1643</Lips>
 
   </Character>
 
