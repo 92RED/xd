@@ -82,18 +82,18 @@
     <LegsV>15BE</LegsV>
     <LegsDye>15BF</LegsDye>
     <Feet>15C0</Feet>
-    <FeetVA>15C2</FeetVA>
+    <FeetVa>15C2</FeetVa>
     <FeetDye>15C3</FeetDye>
     <Ear>15C4</Ear>
     <EarV>15C6</EarV>
     <Neck>15C8</Neck>
-    <NeckV>15CA</NeckV>
+    <NeckVa>15CA</NeckVa>
     <Wrist>15CC</Wrist>
-    <WristV>15CE</WristV>
+    <WristVa>15CE</WristVa>
     <RFinger>15D0</RFinger>
-    <RFingerV>15D2</RFingerV>
+    <RFingerVa>15D2</RFingerVa>
     <LFinger>15D4</LFinger>
-    <LFingerV>15D6</LFingerV>
+    <LFingerVa>15D6</LFingerVa>
     <Job>1320</Job>
     <WeaponBase>1322</WeaponBase>
     <WeaponV>1324</WeaponV>
