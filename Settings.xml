@@ -41,6 +41,7 @@
       <MuscleTone>240,28,20,C</MuscleTone>
       <TailSize>140,70</TailSize>
     </Body>
+//CharacterDetails
     <NameHeight>164</NameHeight>
     <TailType>1646</TailType>
     <Head>1635</Head>
@@ -58,10 +59,12 @@
     <FacePaintColor>1649</FacePaintColor>
     <Nose>1641</Nose>
     <Lips>1643</Lips>
+// Camera
     <CameraHeight>174</CameraHeight>
     <CamX>A0</CamX>
     <CamY>A4</CamY>
     <CamZ>A8</CamZ>
+// Emote
     <Emote>370,750,330,1B0</Emote>
     <EmoteSpeed1>370,750,330,224</EmoteSpeed1>
     <EmoteSpeed2>370,750,330,228</EmoteSpeed2>
@@ -70,6 +73,31 @@
     <CZoom>128</CZoom>
     <FOVC>134</FOVC>
     <FOVMAX>13C</FOVMAX>
+//Equipment Changes
+    <Head>15B0</Head>
+    <HeadV>15B2</HeadV>
+    <HeadDye>15B3t</HeadDye>
+    <Chest>15B4</Chest>
+    <ChestV>15B6</ChestV>
+    <ChestDye>15B7></ChestDye>
+    <Arms>15B8</Arms>
+    <ArmsV>15BA</ArmsV>
+    <Legs>15BC</Legs>
+    <LegsV>15BE</LegsV>
+    <LegsDye>15BF</LegsDye>
+    <Feet>15C0</Feet>
+    <FeetV>15C2</Feet>
+    <FeetDye>15C3</FeetDye>
+    <Ear>15C4</Ear>
+    <EarV>15C6</EarV>
+    <Neck>15C8</Neck>
+    <NeckV>15CA</Neck>
+    <Wrist>15CC</Wrist>
+    <WristV>15CE</Wrist>
+    <RFinger>15D0</RFinger>
+    <RFingerV>15D2</RFingerV>
+    <LFinger>15D4</LFinger>
+    <LFingerV>15D6</LFingerV>
   </Character>
 
 </Settings>
