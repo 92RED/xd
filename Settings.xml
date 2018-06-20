@@ -41,7 +41,6 @@
       <MuscleTone>240,28,20,C</MuscleTone>
       <TailSize>140,70</TailSize>
     </Body>
-//CharacterDetails
     <NameHeight>164</NameHeight>
     <TailType>1646</TailType>
     <Head>1635</Head>
@@ -59,12 +58,10 @@
     <FacePaintColor>1649</FacePaintColor>
     <Nose>1641</Nose>
     <Lips>1643</Lips>
-// Camera
     <CameraHeight>174</CameraHeight>
     <CamX>A0</CamX>
     <CamY>A4</CamY>
     <CamZ>A8</CamZ>
-// Emote
     <Emote>370,750,330,1B0</Emote>
     <EmoteSpeed1>370,750,330,224</EmoteSpeed1>
     <EmoteSpeed2>370,750,330,228</EmoteSpeed2>
@@ -73,7 +70,6 @@
     <CZoom>128</CZoom>
     <FOVC>134</FOVC>
     <FOVMAX>13C</FOVMAX>
-//Equipment Changes
     <Head>15B0</Head>
     <HeadV>15B2</HeadV>
     <HeadDye>15B3t</HeadDye>
