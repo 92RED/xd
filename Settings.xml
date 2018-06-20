@@ -98,6 +98,14 @@
     <RFingerV>15D2</RFingerV>
     <LFinger>15D4</LFinger>
     <LFingerV>15D6</LFingerV>
+    <Job>1320</Job>
+    <WeaponBase>1322</WeaponBase>
+    <WeaponV>1324</WeaponV>
+    <WeaponDye>1326</WeaponDye>
+    <Offhand>1380</Offhand>
+    <OffhandBase>1382</OffhandBase>
+    <OffhandV>1384</OffhandV>
+    <OffhandDye>1386</OffhandDye>
   </Character>
 
 </Settings>
