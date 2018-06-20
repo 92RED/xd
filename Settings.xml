@@ -70,38 +70,6 @@
     <CZoom>128</CZoom>
     <FOVC>134</FOVC>
     <FOVMAX>13C</FOVMAX>
-    <Head>15B0</Head>
-    <HeadV>15B2</HeadV>
-    <HeadDye>15B3t</HeadDye>
-    <Chest>15B4</Chest>
-    <ChestV>15B6</ChestV>
-    <ChestDye>15B7></ChestDye>
-    <Arms>15B8</Arms>
-    <ArmsV>15BA</ArmsV>
-    <Legs>15BC</Legs>
-    <LegsV>15BE</LegsV>
-    <LegsDye>15BF</LegsDye>
-    <Feet>15C0</Feet>
-    <FeetVa>15C2</FeetVa>
-    <FeetDye>15C3</FeetDye>
-    <Ear>15C4</Ear>
-    <EarVa>15C6</EarVa>
-    <Neck>15C8</Neck>
-    <NeckVa>15CA</NeckVa>
-    <Wrist>15CC</Wrist>
-    <WristVa>15CE</WristVa>
-    <RFinger>15D0</RFinger>
-    <RFingerVa>15D2</RFingerVa>
-    <LFinger>15D4</LFinger>
-    <LFingerVa>15D6</LFingerVa>
-    <Job>1320</Job>
-    <WeaponBase>1322</WeaponBase>
-    <WeaponV>1324</WeaponV>
-    <WeaponDye>1326</WeaponDye>
-    <Offhand>1380</Offhand>
-    <OffhandBase>1382</OffhandBase>
-    <OffhandV>1384</OffhandV>
-    <OffhandDye>1386</OffhandDye>
   </Character>
 
 </Settings>
