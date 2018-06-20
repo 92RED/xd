@@ -99,6 +99,9 @@
     <WeaponBase>1322</WeaponBase>
     <WeaponV>1324</WeaponV>
     <WeaponDye>1326</WeaponDye>
+    <WeaponX>F0,30,70</WeaponX>
+    <WeaponY>F0,30,74</WeaponY>
+    <WeaponZ>F0,30,78</WeaponZ>
     <Offhand>1380</Offhand>
     <OffhandBase>1382</OffhandBase>
     <OffhandV>1384</OffhandV>
