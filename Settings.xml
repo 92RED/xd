@@ -102,6 +102,9 @@
     <WeaponX>F0,30,70</WeaponX>
     <WeaponY>F0,30,74</WeaponY>
     <WeaponZ>F0,30,78</WeaponZ>
+    <WeaponRed>F0,30,258</WeaponRed>
+    <WeaponGreen>F0,30,25C</WeaponGreen>
+    <WeaponBlue>F0,30,260</WeaponBlue>
     <Offhand>1380</Offhand>
     <OffhandBase>1382</OffhandBase>
     <OffhandV>1384</OffhandV>
