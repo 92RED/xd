@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Settings>
+  <Version>Up to Date</Version>
   <GposeEmoteOffset>18F72C8</GposeEmoteOffset>
   <CameraOffset>18F70A0</CameraOffset>
   <GposeOffset>018F72C8</GposeOffset>
@@ -109,6 +110,31 @@
     <OffhandBase>1382</OffhandBase>
     <OffhandV>1384</OffhandV>
     <OffhandDye>1386</OffhandDye>
+    <SkinRedPigment>F0,240,28,20,0</SkinRedPigment>
+    <SkinGreenPigment>F0,240,28,20,4</SkinGreenPigment>
+    <SkinBluePigment>F0,240,28,20,8</SkinBluePigment>
+    <SkinRedGloss>F0,240,28,20,10</SkinRedGloss>
+    <SkinGreenGloss>F0,240,28,20,14</SkinGreenGloss>
+    <SkinBlueGloss>F0,240,28,20,18</SkinBlueGloss>
+    <HairRedPigment>F0,240,28,20,30</HairRedPigment>
+    <HairGreenPigment>F0,240,28,20,34</HairGreenPigment>
+    <HairBluePIgment>F0,240,28,20,38</HairBluePigment>
+    <HairGlowRed>F0,240,28,20,40</HairGlowRed>
+    <HairGlowGreen>F0,240,28,20,44</HairGlowGreen>
+    <HairGlowBlue>F0,240,28,20,48</HairGlowBlue>
+    <HighlightRedPigment>F0,240,28,20,50</HighlightRedPigment>
+    <HighlightGreenPIgment>F0,240,28,20,54</HighlightGreenPigment>
+    <HighlightBluePigment>F0,240,28,20,58</HighlightBluePigment>
+    <LeftEyeRed>F0,240,28,20,60</LeftEyeRed>
+    <LeftEyeGreen>F0,240,28,20,64</LeftEyeGreen>
+    <LeftEyeBlue>F0,240,28,20,68</LeftEyeBlue>
+    <RightEyeRed>F0,240,28,20,70</RightEyeRed>
+    <RightEyeGreen>F0,240,28,20,74</RightEyeGreen>
+    <RightEyeBlue>F0,240,28,20,78</RightEyeBlue>
+    <LipsBrightness>F0,240,28,20,2C</LipsBrightness>
+    <LipsR>F0,240,28,20,20</LipsR>
+    <LipsG>F0,240,28,20,24</LipgsG>
+    <LipsB>F0,240,28,20,28</LipsB>
   </Character>
 
 </Settings>
