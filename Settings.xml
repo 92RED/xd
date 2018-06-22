@@ -65,14 +65,15 @@
     <CamX>A0</CamX>
     <CamY>A4</CamY>
     <CamZ>A8</CamZ>
-    <Emote>370,750,330,1B0</Emote>
-    <EmoteSpeed1>370,750,330,224</EmoteSpeed1>
-    <EmoteSpeed2>370,750,330,228</EmoteSpeed2>
     <Max>130</Max>
     <Min>12C</Min>
     <CZoom>128</CZoom>
     <FOVC>134</FOVC>
     <FOVMAX>13C</FOVMAX>
+    <FOV2>140</FOV2>
+    <Emote>370,750,330,1B0</Emote>
+    <EmoteSpeed1>370,750,330,224</EmoteSpeed1>
+    <EmoteSpeed2>370,750,330,228</EmoteSpeed2>
     <HeadPiece>15B0</HeadPiece>
     <HeadV>15B2</HeadV>
     <HeadDye>15B3</HeadDye>
@@ -137,6 +138,7 @@
     <LipsR>F0,240,28,20,20</LipsR>
     <LipsG>F0,240,28,20,24</LipsG>
     <LipsB>F0,240,28,20,28</LipsB>
+    
   </Character>
 
 </Settings>
