@@ -11,6 +11,7 @@
     <Race>1630</Race>
     <Gender>1631</Gender>
     <Clan>1634</Clan>
+    <Voices>1720</Voices>
 
     <Body Base="F0">
 
@@ -58,6 +59,8 @@
     <FacePaintColor>1649</FacePaintColor>
     <Nose>1641</Nose>
     <Lips>1643</Lips>
+    <CameraYAMin>160</CameraYAMin>
+    <CameraYAMax>15C</CameraYAMax>
     <CameraHeight>174</CameraHeight>
     <CamX>A0</CamX>
     <CamY>A4</CamY>
