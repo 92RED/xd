@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.4.5.1</version>
+    <version>1.4.5.2</version>
     <url>https://foxhost.no/ffxiv/FFXIVTrainer.zip</url>
     <mandatory>false</mandatory>
-    <checksum algorithm="SHA256">EBA7ED693F65D12A78ECB6924F0DC7EFEC07D1EC2766D3A7DA8130482B313B00</checksum>
+    <checksum algorithm="SHA256">002EAB239677CE109486EDEA08296AC15D5417FBBB3A9F05FB1A3D5A239FA05A</checksum>
 </item>
