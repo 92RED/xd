@@ -160,6 +160,9 @@
     <LimbalR>F0,240,28,20,80</LimbalR>
     <LimbalG>F0,240,28,20,84</LimbalG>
     <LimbalB>F0,240,28,20,88</LimbalB>
+    <RenderDistance>C0</RenderDistance>
+    <RenderToggle>104</RenderToggle>
+    <Transparency>15AC</Transparency>
   </Character>
 
 </Settings>
