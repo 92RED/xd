@@ -7,9 +7,9 @@
   <TimeOffset>18E3330</TimeOffset>
   <WeatherOffset>18E1278</WeatherOffset>
   <TerritoryOffset>19369A8</TerritoryOffset>
+  <HousingOffset>51C79D</HousingOffset>
   
   <Character>
-    <Version>Up to Date</Version>
     <Name>30</Name>
     <Race>1630</Race>
     <Gender>1631</Gender>
@@ -46,8 +46,7 @@
       <TailSize>140,70</TailSize>
     </Body>
     <NameHeight>164</NameHeight>
-    <TailType>1646</TailType>    <TailType>1646</TailType>
-
+    <TailType>1646</TailType>
     <Head>1635</Head>
     <Jaw>1642</Jaw>
     <RHeight>1633</RHeight>
@@ -161,6 +160,9 @@
     <LimbalR>F0,240,28,20,80</LimbalR>
     <LimbalG>F0,240,28,20,84</LimbalG>
     <LimbalB>F0,240,28,20,88</LimbalB>
+    <RenderDistance>C0</RenderDistance>
+    <RenderToggle>104</RenderToggle>
+    <Transparency>15AC</Transparency>
   </Character>
 
 </Settings>
