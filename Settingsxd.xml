@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Settings>
-  <GposeEmoteOffset>18FF6C8</GposeEmoteOffset>
+  <GposeEmoteOffset>18FE2C8</GposeEmoteOffset>
   <CameraOffset>18FE0A0</CameraOffset>
-  <GposeOffset>18FF6C8</GposeOffset>
+  <GposeOffset>18FE2C8</GposeOffset>
   <AoBOffset>18FF6B8</AoBOffset>
   <TimeOffset>18E3458</TimeOffset>
   <WeatherOffset>18E11F8</WeatherOffset>
