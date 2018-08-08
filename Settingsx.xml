@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Settings>
-  <GposeEmoteOffset>18FE348</GposeEmoteOffset>
-  <CameraOffset>18FE120</CameraOffset>
-  <GposeOffset>18FE348</GposeOffset>
-  <AoBOffset>18FF738</AoBOffset>
-  <TimeOffset>18E3330</TimeOffset>
-  <WeatherOffset>18E1278</WeatherOffset>
-  <TerritoryOffset>19369A8</TerritoryOffset>
+  <GposeEmoteOffset>18FE2A0</GposeEmoteOffset>
+  <CameraOffset>18FE0A0</CameraOffset>
+  <GposeOffset>18FE2A0</GposeOffset>
+  <AoBOffset>18FF6B8</AoBOffset>
+  <TimeOffset>18E32B0</TimeOffset>
+  <WeatherOffset>18E11F8</WeatherOffset>
+  <TerritoryOffset>1936928</TerritoryOffset>
   <HousingOffset>51C79D</HousingOffset>
   
   <Character>
@@ -91,7 +91,7 @@
     <ChestV>15B6</ChestV>
     <ChestDye>15B7</ChestDye>
     <Arms>15B8</Arms>
-    <Territory>4C</Territory>
+    <Territory>60</Territory>
     <ArmsV>15BA</ArmsV>
     <ArmsDye>15BB</ArmsDye>
     <Legs>15BC</Legs>
