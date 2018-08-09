@@ -8,6 +8,7 @@
   <WeatherOffset>18E11F8</WeatherOffset>
   <TerritoryOffset>1936928</TerritoryOffset>
   <HousingOffset>51C79D</HousingOffset>
+  <VersionCheck>true</VersionCheck>
   
   <Character>
     <Name>30</Name>
