@@ -163,6 +163,7 @@
     <RenderDistance>C0</RenderDistance>
     <RenderToggle>104</RenderToggle>
     <Transparency>15AC</Transparency>
+    <EntityType>8C</EntityType>
   </Character>
 
 </Settings>
