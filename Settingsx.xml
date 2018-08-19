@@ -164,6 +164,7 @@
     <RenderToggle>104</RenderToggle>
     <Transparency>15AC</Transparency>
     <EntityType>8C</EntityType>
+    <BodyType>1632</BodyType>
     <ModelType>16F8</ModelType>
   </Character>
 
