@@ -8,6 +8,7 @@
   <WeatherOffset>18E11F8</WeatherOffset>
   <TerritoryOffset>1936928</TerritoryOffset>
   <HousingOffset>51C7ED</HousingOffset>
+  <GposeFilters>18E11F8</GposeFilters>
   
   <Character>
     <Name>30</Name>
@@ -166,6 +167,8 @@
     <EntityType>8C</EntityType>
     <BodyType>1632</BodyType>
     <ModelType>16F8</ModelType>
+    <FilterEnable>37B</FilterEnable>
+    <FilterAoB>318</FilterAoB>
   </Character>
 
 </Settings>
