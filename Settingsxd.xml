@@ -10,7 +10,7 @@
   <!--HousingOffset is Placement of furniture-->
   <HousingOffset>51C7ED</HousingOffset>
   <!--HousingOffset1 Allows wallmounted furnitures to be placed against partition -->
-  <HousingOffset>51D284</HousingOffset>
+  <HousingOffset1>51D284</HousingOffset1>
   <GposeFilters>18E11F8</GposeFilters>
   
   <Character>
