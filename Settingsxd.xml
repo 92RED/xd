@@ -170,6 +170,10 @@
     <ModelType>16F8</ModelType>
     <FilterEnable>37B</FilterEnable>
     <FilterAoB>318</FilterAoB>
+  <!--Gpose Filter Offsets-->
+    <HDR>350</HDR>
+    <Brightness>318</Brightness>
+    <Contrast>330</Contrast>
   </Character>
 
 </Settings>
