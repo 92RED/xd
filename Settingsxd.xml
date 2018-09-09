@@ -168,12 +168,24 @@
     <EntityType>8C</EntityType>
     <BodyType>1632</BodyType>
     <ModelType>16F8</ModelType>
+      <!--Gpose Filter Offsets-->
     <FilterEnable>37B</FilterEnable>
     <FilterAoB>318</FilterAoB>
-  <!--Gpose Filter Offsets-->
     <HDR>350</HDR>
     <Brightness>318</Brightness>
     <Contrast>330</Contrast>
+    <Exposure>31C</Exposure>
+    <Filmic>320</Filmic>
+    <SHDR>324</SHDR>
+    <Colorfulness>32C</Colorfulness>
+    <Contrast2>334</Contrast2>
+    <Colorfulness2>34C</Colorfulness>
+    <Vibrance>348</Vibrance>
+    <Gamma>344</Gamma>
+    <GBlue>340</GBlue>
+    <GGreen>33C</GGReen>
+    <GRed>338</GRed>
+    <Vigenette>37C</Vigenette>
   </Character>
 
 </Settings>
