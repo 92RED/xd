@@ -2,5 +2,5 @@
 <item>
     <version>1.4.8.1</version>
     <url>https://github.com/SaberNaut/FFTrainer/releases/download/1.4.8.1/FFXIVTrainer.zip</url>
-    <mandatory>false</mandatory>
+    <mandatory>true</mandatory>
 </item>
