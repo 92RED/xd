@@ -7,7 +7,6 @@
   <TimeOffset>18E32B0</TimeOffset>
   <WeatherOffset>18E11F8</WeatherOffset>
   <TerritoryOffset>1936928</TerritoryOffset>
-  <!--HousingOffset is Placement of furniture-->
   <HousingOffset>51C7ED</HousingOffset>
   <GposeFilters>18E11F8</GposeFilters>
   
@@ -168,7 +167,6 @@
     <EntityType>8C</EntityType>
     <BodyType>1632</BodyType>
     <ModelType>16F8</ModelType>
-      <!--Gpose Filter Offsets-->
     <FilterEnable>37B</FilterEnable>
     <FilterAoB>318</FilterAoB>
     <HDR>350</HDR>
