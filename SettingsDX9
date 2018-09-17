@@ -20,13 +20,13 @@
     <Body Base="EC">
 
       <Position>
-        <X>50</X>
-        <Y>54</Y>
-        <Z>58</Z>
-        <Rotation>60</Rotation>
-        <Rotation2>64</Rotation2>
-        <Rotation3>68</Rotation3>
-        <Rotation4>6C</Rotation4>
+        <X>30</X>
+        <Y>34</Y>
+        <Z>38</Z>
+        <Rotation>40</Rotation>
+        <Rotation2>44</Rotation2>
+        <Rotation3>48</Rotation3>
+        <Rotation4>4C</Rotation4>
       </Position>
 
       <Scale>
