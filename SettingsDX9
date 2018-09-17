@@ -3,7 +3,7 @@
   <GposeEmoteOffset>18FE2A0</GposeEmoteOffset>
   <CameraOffset>18FE0A0</CameraOffset>
   <GposeOffset>18FE2A0</GposeOffset>
-  <AoBOffset>18FF6B8</AoBOffset>
+  <AoBOffset>11F45C8</AoBOffset>
   <TimeOffset>18E32B0</TimeOffset>
   <WeatherOffset>18E11F8</WeatherOffset>
   <TerritoryOffset>1936928</TerritoryOffset>
@@ -12,12 +12,12 @@
   
   <Character>
     <Name>30</Name>
-    <Race>1630</Race>
-    <Gender>1631</Gender>
-    <Clan>1634</Clan>
-    <Voices>1720</Voices>
+    <Race>12DC</Race>
+    <Gender>12DD</Gender>
+    <Clan>12E0</Clan>
+    <Voices>13C8</Voices>
 
-    <Body Base="F0">
+    <Body Base="EC">
 
       <Position>
         <X>50</X>
@@ -30,44 +30,44 @@
       </Position>
 
       <Scale>
-        <X>70</X>
-        <Y>78</Y>
-        <Z>74</Z>
+        <X>50</X>
+        <Y>54</Y>
+        <Z>58</Z>
       </Scale>
 
-      <Bust Base="140">
-        <X>64</X>
-        <Y>68</Y>
-        <Z>6C</Z>
+      <Bust Base="D8">
+        <X>44</X>
+        <Y>48</Y>
+        <Z>4C</Z>
       </Bust>
-      <Wetness>2B0</Wetness>
-      <SWetness>2BC</SWetness>
-      <Height>26C</Height>
+      <Wetness>1F4</Wetness>
+      <SWetness>1F8</SWetness>
+      <Height>1B4</Height>
       <MuscleTone>240,28,20,C</MuscleTone>
-      <TailSize>140,70</TailSize>
+      <TailSize>B4,24,50</TailSize>
     </Body>
     <NameHeight>164</NameHeight>
-    <TailType>1646</TailType>
-    <Head>1635</Head>
-    <Jaw>1642</Jaw>
+    <TailType>12F2</TailType>
+    <Head>12E1</Head>
+    <Jaw>12EE</Jaw>
     <RHeight>1633</RHeight>
     <RBust>1647</RBust>
-    <Hair>1636</Hair>
-    <HairTone>163A</HairTone>
-    <Highlights>1637</Highlights>
-    <HighlightTone>163B</HighlightTone>
-    <Skintone>1638</Skintone>
-    <FacialFeatures>163C</FacialFeatures>
-    <Eye>1640</Eye>
-    <TailorMuscle>1645</TailorMuscle>
-    <RightEye>1639</RightEye>
-    <LeftEye>163F</LeftEye>
-    <EyeBrowType>163E</EyeBrowType>
-    <FacePaint>1648</FacePaint>
-    <FacePaintColor>1649</FacePaintColor>
-    <Nose>1641</Nose>
-    <Lips>1643</Lips>
-    <LipsTone>1644</LipsTone>
+    <Hair>12E2</Hair>
+    <HairTone>12E6</HairTone>
+    <Highlights>12E3</Highlights>
+    <HighlightTone>12E7</HighlightTone>
+    <Skintone>12E4</Skintone>
+    <FacialFeatures>12E8</FacialFeatures>
+    <Eye>12EA</Eye>
+    <TailorMuscle>12F1</TailorMuscle>
+    <RightEye>12E5</RightEye>
+    <LeftEye>12EB</LeftEye>
+    <EyeBrowType>12EA</EyeBrowType>
+    <FacePaint>12F4</FacePaint>
+    <FacePaintColor>12F5</FacePaintColor>
+    <Nose>12ED</Nose>
+    <Lips>12E9</Lips>
+    <LipsTone>12EF</LipsTone>
     <CameraYAMin>160</CameraYAMin>
     <CameraYAMax>15C</CameraYAMax>
     <CameraHeight>174</CameraHeight>
@@ -85,46 +85,46 @@
     <EmoteSpeed1>370,750,330,224</EmoteSpeed1>
     <EmoteSpeed2>370,750,330,228</EmoteSpeed2>
     <FreezeFacial>370,750,330,22C</FreezeFacial>
-    <HeadPiece>15B0</HeadPiece>
-    <HeadV>15B2</HeadV>
-    <HeadDye>15B3</HeadDye>
-    <Chest>15B4</Chest>
-    <ChestV>15B6</ChestV>
-    <ChestDye>15B7</ChestDye>
-    <Arms>15B8</Arms>
+    <HeadPiece>1290</HeadPiece>
+    <HeadV>1292</HeadV>
+    <HeadDye>1293</HeadDye>
+    <Chest>1294</Chest>
+    <ChestV>1296</ChestV>
+    <ChestDye>1297</ChestDye>
+    <Arms>1298</Arms>
     <Territory>60</Territory>
-    <ArmsV>15BA</ArmsV>
-    <ArmsDye>15BB</ArmsDye>
-    <Legs>15BC</Legs>
-    <LegsV>15BE</LegsV>
-    <LegsDye>15BF</LegsDye>
-    <Feet>15C0</Feet>
-    <FeetVa>15C2</FeetVa>
-    <FeetDye>15C3</FeetDye>
-    <Ear>15C4</Ear>
-    <EarVa>15C6</EarVa>
-    <Neck>15C8</Neck>
-    <NeckVa>15CA</NeckVa>
-    <Wrist>15CC</Wrist>
-    <WristVa>15CE</WristVa>
-    <RFinger>15D0</RFinger>
-    <RFingerVa>15D2</RFingerVa>
-    <LFinger>15D4</LFinger>
-    <LFingerVa>15D6</LFingerVa>
-    <Job>1320</Job>
-    <WeaponBase>1322</WeaponBase>
-    <WeaponV>1324</WeaponV>
-    <WeaponDye>1326</WeaponDye>
+    <ArmsV>129A</ArmsV>
+    <ArmsDye>129B</ArmsDye>
+    <Legs>129C</Legs>
+    <LegsV>129E</LegsV>
+    <LegsDye>129F</LegsDye>
+    <Feet>12A0</Feet>
+    <FeetVa>12A2</FeetVa>
+    <FeetDye>12A3</FeetDye>
+    <Ear>12A4</Ear>
+    <EarVa>12A6</EarVa>
+    <Neck>12A8</Neck>
+    <NeckVa>12AA</NeckVa>
+    <Wrist>12AC</Wrist>
+    <WristVa>12AE</WristVa>
+    <RFinger>12B0</RFinger>
+    <RFingerVa>12B2</RFingerVa>
+    <LFinger>12B4</LFinger>
+    <LFingerVa>12B6</LFingerVa>
+    <Job>10F0</Job>
+    <WeaponBase>10F2</WeaponBase>
+    <WeaponV>10F4</WeaponV>
+    <WeaponDye>10F6</WeaponDye>
     <WeaponX>F0,30,70</WeaponX>
     <WeaponY>F0,30,74</WeaponY>
     <WeaponZ>F0,30,78</WeaponZ>
     <WeaponRed>F0,30,258</WeaponRed>
     <WeaponGreen>F0,30,25C</WeaponGreen>
     <WeaponBlue>F0,30,260</WeaponBlue>
-    <Offhand>1380</Offhand>
-    <OffhandBase>1382</OffhandBase>
-    <OffhandV>1384</OffhandV>
-    <OffhandDye>1386</OffhandDye>
+    <Offhand>1140</Offhand>
+    <OffhandBase>1142</OffhandBase>
+    <OffhandV>1144</OffhandV>
+    <OffhandDye>1146</OffhandDye>
     <OffhandX>F0,30,28,70</OffhandX>
     <OffhandY>F0,30,28,74</OffhandY>
     <OffhandZ>F0,30,28,78</OffhandZ>
