@@ -48,26 +48,26 @@
     </Body>
     <NameHeight>164</NameHeight>
     <TailType>1646</TailType>
-    <Head>1635</Head>
-    <Jaw>1642</Jaw>
-    <RHeight>1633</RHeight>
-    <RBust>1647</RBust>
-    <Hair>1636</Hair>
-    <HairTone>163A</HairTone>
-    <Highlights>1637</Highlights>
-    <HighlightTone>163B</HighlightTone>
-    <Skintone>1638</Skintone>
-    <FacialFeatures>163C</FacialFeatures>
-    <Eye>1640</Eye>
-    <TailorMuscle>1645</TailorMuscle>
-    <RightEye>1639</RightEye>
-    <LeftEye>163F</LeftEye>
-    <EyeBrowType>163E</EyeBrowType>
-    <FacePaint>1648</FacePaint>
-    <FacePaintColor>1649</FacePaintColor>
-    <Nose>1641</Nose>
-    <Lips>1643</Lips>
-    <LipsTone>1644</LipsTone>
+    <Head>168D</Head>
+    <Jaw>169A</Jaw>
+    <RHeight>168B</RHeight>
+    <RBust>169F</RBust>
+    <Hair>168E</Hair>
+    <HairTone>1692</HairTone>
+    <Highlights>168F</Highlights>
+    <HighlightTone>1693</HighlightTone>
+    <Skintone>1690</Skintone>
+    <FacialFeatures>1694</FacialFeatures>
+    <Eye>1698</Eye>
+    <TailorMuscle>169D</TailorMuscle>
+    <RightEye>1691</RightEye>
+    <LeftEye>1697</LeftEye>
+    <EyeBrowType>1696</EyeBrowType>
+    <FacePaint>16A0</FacePaint>
+    <FacePaintColor>16A1</FacePaintColor>
+    <Nose>1699</Nose>
+    <Lips>1695</Lips>
+    <LipsTone>169B</LipsTone>
     <CameraYAMin>160</CameraYAMin>
     <CameraYAMax>15C</CameraYAMax>
     <CameraHeight>174</CameraHeight>
@@ -165,7 +165,7 @@
     <RenderToggle>104</RenderToggle>
     <Transparency>15AC</Transparency>
     <EntityType>8C</EntityType>
-    <BodyType>1632</BodyType>
+    <BodyType>168A</BodyType>
     <ModelType>16F8</ModelType>
     <FilterEnable>37B</FilterEnable>
     <FilterAoB>318</FilterAoB>
