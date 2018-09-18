@@ -68,19 +68,19 @@
     <Nose>1699</Nose>
     <Lips>169B</Lips>
     <LipsTone>169C</LipsTone>
-    <CameraYAMin>160</CameraYAMin>
-    <CameraYAMax>15C</CameraYAMax>
+    <CameraYAMin>150</CameraYAMin>
+    <CameraYAMax>14C</CameraYAMax>
     <CameraHeight>174</CameraHeight>
     <CamX>A0</CamX>
     <CamY>A4</CamY>
     <CamZ>A8</CamZ>
-    <Max>130</Max>
-    <Min>12C</Min>
-    <CZoom>128</CZoom>
-    <FOVC>134</FOVC>
-    <FOVMAX>13C</FOVMAX>
-    <FOV2>140</FOV2>
-    <CameraUpDown>228</CameraUpDown>
+    <Max>120</Max>
+    <Min>11C</Min>
+    <CZoom>118</CZoom>
+    <FOVC>124</FOVC>
+    <FOVMAX>12C</FOVMAX>
+    <FOV2>130</FOV2>
+    <CameraUpDown>218</CameraUpDown>
     <Emote>370,750,330,1B0</Emote>
     <EmoteSpeed1>370,750,330,224</EmoteSpeed1>
     <EmoteSpeed2>370,750,330,228</EmoteSpeed2>
