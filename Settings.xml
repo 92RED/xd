@@ -121,10 +121,10 @@
     <WeaponRed>F0,30,258</WeaponRed>
     <WeaponGreen>F0,30,25C</WeaponGreen>
     <WeaponBlue>F0,30,260</WeaponBlue>
-    <Offhand>13B4</Offhand>
-    <OffhandBase>13B6</OffhandBase>
-    <OffhandV>13B8</OffhandV>
-    <OffhandDye>13BA</OffhandDye>
+    <Offhand>13A0</Offhand>
+    <OffhandBase>13A2</OffhandBase>
+    <OffhandV>13A4</OffhandV>
+    <OffhandDye>13A6</OffhandDye>
     <OffhandX>F0,30,28,70</OffhandX>
     <OffhandY>F0,30,28,74</OffhandY>
     <OffhandZ>F0,30,28,78</OffhandZ>
